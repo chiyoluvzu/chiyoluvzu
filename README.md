@@ -2,7 +2,7 @@
 Hello, I'm Chiyo! I’m a 16 year old, allegedly from Japan/Brazil with a passion for technology. I love offensive security and exploring a wide range of tech topics. Some of my interests are penetration testing, robotics, linux, reverse engineering and web development, and right now, I’m trying to learn more regarding coding languages.
 <br>
 <br>
-### What my skills are:
+### What I am learning:
 [![skills](https://skillicons.dev/icons?i=html,css,js,py,c,linux)](https://skillicons.dev)
 ### What I operate with:
 [![skills](https://skillicons.dev/icons?i=arch,windows,ubuntu)](https://skillicons.dev)
